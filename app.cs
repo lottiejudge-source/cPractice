@@ -11,5 +11,8 @@ Console.WriteLine("'~~~'");
 string myName = "Lottie";
 
 int myAge = 32;
+// a float is a double 
+
+double floaty = 5.6;
 
 Console.WriteLine(myName + ", " + myAge);
