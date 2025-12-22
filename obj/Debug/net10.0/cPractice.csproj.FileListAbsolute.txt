@@ -1,0 +1,14 @@
+/Users/lottie.judge/projects/cPractice/obj/Debug/net10.0/cPractice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lottie.judge/projects/cPractice/obj/Debug/net10.0/cPractice.AssemblyInfoInputs.cache
+/Users/lottie.judge/projects/cPractice/obj/Debug/net10.0/cPractice.AssemblyInfo.cs
+/Users/lottie.judge/projects/cPractice/obj/Debug/net10.0/cPractice.csproj.CoreCompileInputs.cache
+/Users/lottie.judge/projects/cPractice/bin/Debug/net10.0/cPractice
+/Users/lottie.judge/projects/cPractice/bin/Debug/net10.0/cPractice.deps.json
+/Users/lottie.judge/projects/cPractice/bin/Debug/net10.0/cPractice.runtimeconfig.json
+/Users/lottie.judge/projects/cPractice/bin/Debug/net10.0/cPractice.dll
+/Users/lottie.judge/projects/cPractice/bin/Debug/net10.0/cPractice.pdb
+/Users/lottie.judge/projects/cPractice/obj/Debug/net10.0/cPractice.dll
+/Users/lottie.judge/projects/cPractice/obj/Debug/net10.0/refint/cPractice.dll
+/Users/lottie.judge/projects/cPractice/obj/Debug/net10.0/cPractice.pdb
+/Users/lottie.judge/projects/cPractice/obj/Debug/net10.0/cPractice.genruntimeconfig.cache
+/Users/lottie.judge/projects/cPractice/obj/Debug/net10.0/ref/cPractice.dll
