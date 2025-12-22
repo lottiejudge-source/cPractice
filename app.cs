@@ -9,3 +9,7 @@ Console.WriteLine("'~~~'");
 // creating variables 
 
 string myName = "Lottie";
+
+int myAge = 32;
+
+Console.WriteLine(myName + ", " + myAge);
