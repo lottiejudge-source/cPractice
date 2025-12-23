@@ -17,6 +17,7 @@ int myAge = 32;
 
 double floaty = 5.6;
 
+// lower case boolean
 boolean correct = true;
 
 Console.WriteLine(myName + ", " + myAge);
