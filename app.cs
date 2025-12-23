@@ -11,8 +11,12 @@ Console.WriteLine("'~~~'");
 string myName = "Lottie";
 
 int myAge = 32;
-// a float is a double 
+// float = single precision floating-point (4 bytes)
+
+// double = double precision floating-point (8 bytes)
 
 double floaty = 5.6;
+
+boolean correct = true;
 
 Console.WriteLine(myName + ", " + myAge);
